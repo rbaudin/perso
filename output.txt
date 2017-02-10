@@ -1,0 +1,30 @@
+-f=id -i=10.48.77.18 -n=10.48.77.18
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.18 -n=ALGIZ
+-f=id -i=10.48.77.25 -n=10.48.77.25
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.25 -n=ANSUZ
+-f=id -i=10.48.77.62 -n=10.48.77.62
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.62 -n=BERKANO
+-f=id -i=10.48.77.84 -n=10.48.77.84
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.84 -n=DAGAZ
+-f=id -i=10.48.77.114 -n=10.48.77.114
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.114 -n=EHWAZ
+-f=id -i=10.48.77.123 -n=10.48.77.123
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.123 -n=EIHWAZ
+-f=id -i=10.48.77.142 -n=10.48.77.142
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.142 -n=FEHU
+-f=id -i=10.48.77.148 -n=10.48.77.148
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.148 -n=GEBO
+-f=id -i=10.48.77.152 -n=10.48.77.152
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.152 -n=HAGALAZ
+-f=id -i=10.48.77.156 -n=10.48.77.156
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.156 -n=INGWAZ
+-f=id -i=10.48.77.165 -n=10.48.77.165
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.165 -n=ISA
+-f=id -i=10.48.77.166 -n=10.48.77.166
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.166 -n=JERA
+-f=id -i=10.48.77.167 -n=10.48.77.167
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.167 -n=KENAZ
+-f=id -i=10.48.77.172 -n=10.48.77.172
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.172 -n=LAGUZ
+-f=id -i=10.48.77.176 -n=10.48.77.176
+-f=ia -Contact1=bru-calo-admin -Contact1type="Mail Alias" -i=10.48.77.176 -n=MANNAZ
