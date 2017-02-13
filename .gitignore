@@ -1,0 +1,9 @@
+#/target/
+# Exclude everything
+#.gitignore
+#*.txt
+#src/
+#/target/
+# Except src folder	
+#!/src
+
